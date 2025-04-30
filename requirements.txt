@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sentence-transformers
+transformers
+faiss-cpu
+PyMuPDF
+numpy
+huggingface_hub[hf_xet]
